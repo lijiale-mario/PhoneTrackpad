@@ -10,7 +10,7 @@
 ## 下载
 
 - **Mac**：在 [Releases](../../releases/latest) 下载 `PhoneTrackpad-<版本>.dmg`，打开后把 PhoneTrackpadMac 拖进「应用程序」。已通过 Apple 公证。需要 macOS 15 或更新版本。
-- **iPhone**：通过 TestFlight 公开测试安装（链接见下方使用教程）。需要 iOS 18 或更新版本。
+- **iPhone**：先在 App Store 安装 TestFlight，再打开公开测试链接 https://testflight.apple.com/join/2mjb65FE 安装「万六触控板」。需要 iOS 18 或更新版本。
 
 ## 使用教程
 
